@@ -1,7 +1,7 @@
-export const USER_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com/api/v1/user";
+export const USER_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com";
 
-export const JOB_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com/api/v1/job";
+export const JOB_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com";
 
-export const APPLICATION_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com/api/v1/application";
+export const APPLICATION_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com ";
 
-export const COMPANY_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com/api/v1/company";
+export const COMPANY_API_END_POINT = "https://jobportal-yt-main-backend-9lc9.onrender.com";
